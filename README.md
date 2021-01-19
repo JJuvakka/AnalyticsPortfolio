@@ -1,6 +1,6 @@
 # AnalyticsPortfolio
 
-# [Project 1: Tool for optionstrading to support decisionmaking: Project overview]()
+# [Project 1: Tool for options trading to support decisionmaking: Project overview]()
 * Simulated S&P 500 prices and returns as a random walk with drift
 * Calculated theoretical probability for profit and expected outcome for short vertical call spread
 * Simulated different portfoliovalues for an optionsportfolio
