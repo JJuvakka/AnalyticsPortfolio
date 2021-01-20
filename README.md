@@ -20,7 +20,7 @@
 * Critique: Price data is asking prices which probably makes the regression to overestimate the values
 
 ![](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Autos_sales_data_project.PNG)
-![](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/Autos_sales_data_project_regression.PNG)
+![](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Autos_sales_data_project_regression.PNG)
 
 # [Project 3: Monthly weather forecast for Lappeenranta for the year of 2021: Project overview:](https://github.com/JJuvakka/AnalyticsPortfolio)
 * Downloaded data from ilmatieteenlaitos.fi as a csv file
