@@ -1,6 +1,6 @@
 # AnalyticsPortfolio
 
-# [Project 1: Tool for options trading to support decision making: Project overview](https://github.com/JJuvakka/Financial_analytics)
+# [Project 1: Tool for options trading to support decision making: Project overview:](https://github.com/JJuvakka/Financial_analytics)
 * Simulated S&P 500 prices and returns as a random walk with drift
 * Calculated theoretical probability for profit and expected outcome for short vertical call spread
 * Simulated different portfoliovalues for an optionsportfolio
@@ -12,7 +12,7 @@
 ![](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Simulatedportfoliovalues.png)
 
 
-# [Project 2: Analysis on used cars sales data: Project overview](https://github.com/JJuvakka/Data_science_excel_projects)
+# [Project 2: Analysis on used cars sales data: Project overview:](https://github.com/JJuvakka/Data_science_excel_projects)
 * Dowloaded the data from Kaggle to find out the most common used car brand and fuel type in Germany
 * Cleaned and filtered data
 * Made pivot tables and figures to illustrate the findings
