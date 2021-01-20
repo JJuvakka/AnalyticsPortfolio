@@ -1,6 +1,6 @@
 # AnalyticsPortfolio
 
-# [Project 1: Tool for options trading to support decision making: Project overview](https://github.com/JJuvakka/AnalyticsPortfolio)
+# [Project 1: Tool for options trading to support decision making: Project overview](https://github.com/JJuvakka/Financial_analytics)
 * Simulated S&P 500 prices and returns as a random walk with drift
 * Calculated theoretical probability for profit and expected outcome for short vertical call spread
 * Simulated different portfoliovalues for an optionsportfolio
@@ -12,7 +12,7 @@
 ![](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Simulatedportfoliovalues.png)
 
 
-# [Project 2: Analysis on used cars sales data: Project overview](https://github.com/JJuvakka/AnalyticsPortfolio)
+# [Project 2: Analysis on used cars sales data: Project overview](https://github.com/JJuvakka/Data_science_excel_projects)
 * Dowloaded the data from Kaggle to find out the most common used car brand and fuel type in Germany
 * Cleaned and filtered data
 * Made pivot tables and figures to illustrate the findings
@@ -22,7 +22,7 @@
 ![](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Autos_sales_data_project.PNG)
 ![](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Autos_sales_data_project_regression.PNG)
 
-# [Project 3: Monthly weather forecast for Lappeenranta for the year of 2021: Project overview:](https://github.com/JJuvakka/AnalyticsPortfolio)
+# [Project 3: Monthly weather forecast for Lappeenranta for the year of 2021: Project overview:](https://github.com/JJuvakka/Time_series_analysis)
 * Downloaded data from ilmatieteenlaitos.fi as a csv file
 * Identified key factors of data with visualization, Dickey-Fuller test and ACF and PACF plots
 * Built two ARIMA models and chose the model based on information criteria
