@@ -7,8 +7,8 @@
 * Calculated expected portfoliovalue, expected annual return and probabilities for the portfoliovalue to drop 50 % or 100 %.
 * Plotted simulated portfoliovalues with line- and histogram plots
 
-[](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Histogramofportfoliovalues.png)
-[](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Simulatedportfoliovalues.png)
+![](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Histogramofportfoliovalues.png)
+![](https://github.com/JJuvakka/AnalyticsPortfolio/blob/main/images/Simulatedportfoliovalues.png)
 
 
 
